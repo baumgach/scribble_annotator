@@ -3,7 +3,8 @@
 % annotate scribbles
 % it will attempt to make a scribble by eroding ground truth first - 
 % erosion code was created by Lisa Koch (lisa.koch@inf.ethz.ch)
-% code for reading/writing niifti files
+% code for reading/writing niifti files was created by Doug Greve
+% (see any of the files in MRI_Toolbox for appropriate licence/credits)
 
 folder_path = '/scratch/bmustafa/datasets/ACDC/ACDC_challenge_20170617/';
 addpath('MRI_Toolbox')
